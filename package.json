@@ -1,0 +1,27 @@
+{
+  "name": "postfix-notation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsxpgr/postfix-notation.git"
+  },
+  "keywords": [
+    "postfix",
+    "eliftech",
+    "JS"
+  ],
+  "author": "Oleksii Boiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsxpgr/postfix-notation/issues"
+  },
+  "homepage": "https://github.com/fsxpgr/postfix-notation#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
